@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+# script to generate a json category to label table
 import json
 
 cat_to_name = {}
@@ -27,6 +28,6 @@ cat_to_name['19'] = {"driver": "Sergey Sirotkin", "team": "Williams"}
 cat_to_name['20'] = {"driver": "Lance Stroll", "team": "Williams"}
 
 cat = json.dumps(cat_to_name)
-with open("/Users/MikeJohn/vrona/Project_1_F1_classifier/\
+with open("/Users/me/vrona/Project_1_F1_classifier/\
 cat_to_nameF1.json", "w") as f:
     f.write(cat)

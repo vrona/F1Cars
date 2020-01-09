@@ -10,4 +10,4 @@ Regarding the concern of our topic: image recognition and classification, the ap
 
 #### Development in progress based on: Python 3.6 –  Pytorch 0.4 – Ubuntu 16.04 (Linux). Computation made on Paperspace.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/vrona/F1Cars/blob/master/F1_cars_2018.png)

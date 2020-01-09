@@ -1,4 +1,4 @@
-#!/Users/MikeJohn/anaconda3/bin/python
+#!/Users/me/anaconda3/bin/python
 # -*- coding: utf-8 -*-
 # */Formula_1 car and driver/image_classifier
 #
